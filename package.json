@@ -1,0 +1,19 @@
+{
+  "name": "angular-forms",
+  "version": "1.0.0",
+  "description": "Angular Form Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendanKelly86/Angular-Forms.git"
+  },
+  "author": "Brendan Kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendanKelly86/Angular-Forms/issues"
+  },
+  "homepage": "https://github.com/BrendanKelly86/Angular-Forms#readme"
+}
